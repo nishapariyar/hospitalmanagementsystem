@@ -66,6 +66,7 @@ void menu()
     	system("cls");
     printf("\t\t******************************************");
     printf("\n\t\t***WELCOME TO HOSPITAL MANAGEMENT SYSTEM***");
+    printf("\n\t\t***CODED BY NISHA AND DEEPA ***");
     printf("\n\t\t*****************************************");
     printf("\n\n\n\n\n");
     printf("\t\t1.PATIENT");
